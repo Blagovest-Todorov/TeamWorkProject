@@ -53,7 +53,6 @@ namespace Teams
 
                 teams.Add(team);
                 Console.WriteLine($"Team {teamName} has been created by {creator}!");
-
             }
 
             while (true)
